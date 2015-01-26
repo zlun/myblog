@@ -3,9 +3,8 @@ title: Zhelun Wu
 email: zhelunw@sfu.ca
 description: > # this means to ignore newlines until "baseurl:"
   Hello~! Welcome to my Personal Website!
-baseurl: "/myblog" # the subpath of your site, e.g. /blog/
+baseurl: "/zlun/" # the subpath of your site, e.g. /blog/
 #url: "http://www.sfu.ca/~zhelunw" # the base hostname & protocol for your site
-twitter_username: jekyllrb
 github_username:  zlun
 
 # Build settings
